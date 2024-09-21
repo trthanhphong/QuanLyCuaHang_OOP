@@ -1,0 +1,29 @@
+﻿@page
+@model LTHDT_21880103.Pages.MH_ThongKeHangTonModel
+@{
+    <h2>SỐ LƯỢNG HÀNG TỒN TRONG KHO</h2>
+    <form method="post">
+        <label for="fname">Mặt hàng: </label> <br />
+        <input type="text" name="ThongKe" value=""> <br /><br />
+        <input type="submit" value="ThongKe">
+    </form>
+    <br />
+    <table>
+        <tr>
+            <th>Tên mặt hàng</th>
+            <th>Số lượng</th>
+            <th></th>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/MH_SuaSanPham?msp=">Sửa</a>
+                <a href="/MH_XoaSanPham?msp=">Xóa</a>
+                <a href="/MH_ThemSanPham?msp=">Thêm</a>
+            </td>
+        </tr>
+
+    </table>
+}

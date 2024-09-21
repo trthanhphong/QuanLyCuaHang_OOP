@@ -1,0 +1,31 @@
+﻿@page
+@model LTHDT_21880103.Pages.MH_ThongKeHetHanModel
+@{
+    <h2>KIỂM TRA HÀNG HẾT HẠN</h2>
+    <form method="post">
+        <label for="fname">Ngày kiểm tra: </label> <br />
+        <input type="text" name="KiemTra" value=""> <br /><br />
+        <input type="submit" value="Kiểm tra">
+    </form>
+    <br />
+    <table>
+        <tr>
+            <th>Tên mặt hàng</th>
+            <th>Ngày hết hạn</th>
+            <th>Số lượng</th>
+            <th></th>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/MH_SuaSanPham?msp=">Sửa</a>
+                <a href="/MH_XoaSanPham?msp=">Xóa</a>
+                <a href="/MH_ThemSanPham?msp=">Thêm</a>
+            </td>
+        </tr>
+
+    </table>
+}

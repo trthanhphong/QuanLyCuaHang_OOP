@@ -1,0 +1,14 @@
+﻿@page
+@model LTHDT_21880103.Pages.MH_SuaSanPhamModel
+@using Entities
+@if(Model.SanPham != null)
+{ 
+    <form method="post">
+        <label for="fname">Tên sản phẩm</label><br />
+        <input type="text" name="ten" value="@Model.SanPham.TenSanPham"> <br />
+        <label for="fname">Giá</label> <br />
+        <input type="text" name="gia" value="@Model.SanPham.Gia"> <br />
+        <input type="submit" value="Luu">
+    </form>
+}
+@Model.Chuoi

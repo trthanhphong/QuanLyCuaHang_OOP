@@ -1,0 +1,32 @@
+﻿@page
+@model LTHDT_21880103.Pages.MH_DanhSachLoaiSanPhamModel
+@using Entities; 
+@{
+    <form method="post">
+        <label for="fname">Từ khóa: </label><br />
+        <input type="text" name="TuKhoa" value=""> <br />
+        <input type="submit" value="Tìm kiếm">
+    </form>
+
+    <table>
+        <tr>
+            <th>Mã Loại Sản Phẩm</th>
+            <th>Tên Loại Sản Phẩm</th>
+            <th></th>
+        </tr>
+        @foreach (var sp in Model.DanhSachLoaiSanPham)
+        {
+            <tr>
+                <td>@sp.MaLoaiSanPham</td>
+                <td>@sp.TenLoaiSanPham</td>
+                <td>
+                    <a href="/MH_SuaLoaiSanPham?msp=@sp.MaLoaiSanPham">Sửa</a>
+                    <a href="/MH_XoaLoaiSanPham?msp=@sp.MaLoaiSanPham">Xóa</a>
+                    <a href="/MH_ThemLoaiSanPham?msp=@sp.MaLoaiSanPham">Thêm</a>
+                </td>
+            </tr>
+
+        }
+
+    </table>
+}

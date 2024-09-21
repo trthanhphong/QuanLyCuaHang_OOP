@@ -1,0 +1,30 @@
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.dll
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.pdb
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\Entities.dll
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\Entities.pdb
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.dll
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\VB2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.pdb
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.dll
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\DAL.pdb
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\Entities.dll
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\bin\Debug\net5.0\Entities.pdb
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.dll
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\VB2\2 HỌC KỲ 2\LTHDT\project\LTHDT_21880103\DAL\obj\Debug\net5.0\DAL.pdb
